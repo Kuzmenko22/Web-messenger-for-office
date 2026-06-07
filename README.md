@@ -3,9 +3,9 @@
 ## Установка
 1) Клонировать репозиторий
 
-   ``git clone https://github.com/Kuzmenko22/Planirovanie-zadach.git``
+   ``git clone https://github.com/Kuzmenko22/Web-messenger-for-office.git``
    
-   ``cd Planirovanie-zadach``
+   ``cd Web-messenger-for-office``
 
 3) Установить зависимости
    
